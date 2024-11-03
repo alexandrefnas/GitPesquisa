@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import { useState } from "react";
 import { Header } from "../../components/Header";
 import background from "../../assets/background.png";
